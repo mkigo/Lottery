@@ -1,0 +1,7 @@
+E:\Project\抽奖\Lottery\bin\Release\Lottery.exe
+E:\Project\抽奖\Lottery\bin\Release\Lottery.pdb
+E:\Project\抽奖\Lottery\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Project\抽奖\Lottery\obj\x86\Release\Lottery.FormPrize.resources
+E:\Project\抽奖\Lottery\obj\x86\Release\Lottery.Properties.Resources.resources
+E:\Project\抽奖\Lottery\obj\x86\Release\Lottery.exe
+E:\Project\抽奖\Lottery\obj\x86\Release\Lottery.pdb
